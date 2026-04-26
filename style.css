@@ -16,3 +16,4 @@ a:hover
 #main-title { 
     text-transform: uppercase; 
 }
+.card { padding: 20px; margin: 10px; border: 2px solid #ccc; }
