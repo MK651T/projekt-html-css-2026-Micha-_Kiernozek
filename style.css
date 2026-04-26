@@ -35,5 +35,6 @@ nav ul {
     .container { 
         flex-direction: column;
     }
+    nav { display: none; }
 }
 body { font-size: 1rem; }
