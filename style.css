@@ -10,3 +10,9 @@ a
 a:hover 
 { color: red; 
 }
+.card { 
+    background: white; 
+}
+#main-title { 
+    text-transform: uppercase; 
+}
