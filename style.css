@@ -27,3 +27,7 @@ a:hover
     justify-content: space-between; 
     align-items: center;
 }
+nav ul { 
+    display: flex; 
+    gap: 20px; list-style: none; 
+}
