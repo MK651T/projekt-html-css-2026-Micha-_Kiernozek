@@ -31,3 +31,10 @@ nav ul {
     display: flex; 
     gap: 20px; list-style: none; 
 }
+@media (max-width: 768px) { 
+    .container { 
+        flex-direction: column;
+    }
+    nav { display: none; }
+}
+body { font-size: 1rem; }
