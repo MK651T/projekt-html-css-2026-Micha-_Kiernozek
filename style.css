@@ -15,7 +15,8 @@ a:hover
     padding: 20px; 
     margin: 10px; 
     border: 2px solid #ccc; 
-    box-sizing: border-box; 
+    box-sizing: border-box;
+    width: 300px;
 }
 #main-title { 
     text-transform: uppercase; 
