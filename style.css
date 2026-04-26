@@ -12,6 +12,12 @@ a:hover
 }
 .card { 
     background: white; 
+    padding: 20px; 
+    margin: 10px; 
+    border: 2px solid #ccc; 
+    box-sizing: border-box;
+    width: 300px;
+    margin: 0 auto;
 }
 #main-title { 
     text-transform: uppercase; 
