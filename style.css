@@ -31,4 +31,9 @@ nav ul {
     display: flex; 
     gap: 20px; list-style: none; 
 }
-@media (max-width: 768px) { }
+@media (max-width: 768px) { 
+    .container { 
+        flex-direction: column;
+    }
+}
+body { font-size: 1rem; }
