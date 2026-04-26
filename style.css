@@ -31,3 +31,4 @@ nav ul {
     display: flex; 
     gap: 20px; list-style: none; 
 }
+@media (max-width: 768px) { }
